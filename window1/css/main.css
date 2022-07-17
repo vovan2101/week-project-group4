@@ -3,12 +3,13 @@
   flex-direction: column;
   margin-top: 40px;
   margin-left: 70px;
-  z-index:0;
+
 }
 
 
 .smaller_container {
-    z-index: 0;
+   
+
 }
 
 
@@ -73,10 +74,11 @@ h5 {
 
 #media {
     width: 630px;
+    margin-right: 120px;
     
 }
 
 #pic {
     float: right;
-    z-index: 1;
+   
 }
